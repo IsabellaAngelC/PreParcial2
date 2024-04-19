@@ -1,0 +1,13 @@
+body{
+	font-family: 'Satoshi', sans-serif;
+	background-color: rgb(136, 136, 136);
+	width: 100%;
+	height: max-content;
+	margin-left: 5%
+}
+
+.favorite-button{
+	display:flex;
+	margin:0;
+	margin-top: 2rem;
+}
